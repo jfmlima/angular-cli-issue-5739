@@ -1,0 +1,5 @@
+/CliTest/**/*.js
+/CliTest/**/*.js.map
+/CliTest/App/Shell/**/*.js
+/CliTest/App/Shell/**/*.js.map
+node_modules
