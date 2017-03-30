@@ -1,2 +1,2 @@
-# AngularCliIssue
-Replication of Angular-cli Issue #5739
+# angular-cli-issue-5739
+Replication of issue #5739 of angular-cli
